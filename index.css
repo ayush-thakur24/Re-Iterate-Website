@@ -1269,10 +1269,10 @@ html {
   font-size: 48px;
 }
 
-.querycard {
+/* .querycard {
   align-items: center;
   margin: auto;
-}
+} */
 
 @media (min-width: 1000px) {
   .date-jaydeep {
@@ -1380,7 +1380,7 @@ flex-direction: column;
 align-items: flex-start;
 padding: 24px 27px;
 width: 488px;
-}
+height: auto;}
 .faqh1-ayu {
   font-family: DM Serif Display;
   font-size: 48px;
